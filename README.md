@@ -12,8 +12,8 @@ NewsApp is an Android application developed using Kotlin and Android Studio. It 
 ## Screenshots
 
 <img  align="left" src="main.png" width="20%" height="20%">
-<img  align="left" src="usa.jpg" width="20%" height="20%">
-<img  align="left" src="usa_open.jpg" width="20%" height="20%">
+<img  align="left" src="usa.png" width="20%" height="20%">
+<img  src="usa_open.png" width="20%" height="20%">
 
 ## Installation
 
